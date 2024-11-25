@@ -1,0 +1,21 @@
+# Java
+*.class
+.idea/
+/.classpath
+/.project
+/.factorypath
+.settings/
+/target/
+
+# Package Files
+*.jar
+*.war
+*.iml
+*.ucls
+
+# Log
+*.log
+
+
+/logs/
+
